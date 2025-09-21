@@ -22,13 +22,6 @@ Python 3.x (Backend with Flask)
 
 Instagram API credentials (optional; mock data used by default)
 
-Running Locally
-Start backend server: cd backend && flask run
-
-Run frontend: cd ../frontend && npm start
-
-Visit http://localhost:3000
-
 How It Works
 Input an Instagram username
 
